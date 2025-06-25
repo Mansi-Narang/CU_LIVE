@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.best-event-cards {
+  @apply flex flex-wrap px-10
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
