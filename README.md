@@ -69,6 +69,13 @@ CU-LIVE/
 
 ---
 
+## 📷 Screenshots
+![SS1](./screenshots/SS1.png)
+![SS2](./screenshots/SS2.png)
+![SS3](./screenshots/SS3.png)
+![SS4](./screenshots/SS4.png)
+![SS5](./screenshots/SS5.png)
+
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
