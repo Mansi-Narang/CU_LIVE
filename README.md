@@ -120,7 +120,7 @@ cd ../client
 npm start
 ```
 
-Visit the app at: [http://localhost:3000](http://localhost:3000)
+Visit the app at: [http://localhost:3000](http://localhost:5173)
 
 ---
 
