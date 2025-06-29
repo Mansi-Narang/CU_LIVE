@@ -154,9 +154,10 @@ We welcome contributions! To contribute:
 ## 📬 Contact
 
 **Project Maintainers:** 
-[Mansi](https://github.com/Mansi-Narang/)
-[Punit9464](https://github.com/Punit9464/)
-[Vansh Sharma](https://github.com/vanshshar/)
+
+ - [Mansi-Narang](https://github.com/Mansi-Narang/)
+ - [Punit9464](https://github.com/Punit9464/)
+ - [Vansh Sharma](https://github.com/vanshshar/)
 
 ---
 
